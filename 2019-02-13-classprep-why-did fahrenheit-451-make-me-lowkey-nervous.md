@@ -1,0 +1,13 @@
+---
+layout: post
+title: "TITLE HERE"
+subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+categories:
+    - fieldbooks
+comments: false
+---
+## Class Prep 02.13.19
+
+
+"Printing doesn't really preserve things; it's more likely the gathering, folding, and sewing sheets into hardbound books that does." (Gitelman 187) I definitely see this just in every day life notetaking. More often than not, I will lose papers and handouts and notes that I've written on loose leaf paper which is why (as dorky as it may look), I've developed a habit of using a binder for everything to keep organized. It's very unsettling to think about how my view towards a sheet of paper differs when it is bound or attatched to other papers as opposed to it being its own thing. As Gitelman says, non-codex forms seem to be viewed as something to be used up. I never thought of newspaper as specifically a Nono-Codex piece of media but it definitely is and I cannot fathom how many times I've seen newspapers sprawled open and abandoned on the T. It does feel like after it is read, a newspaper is basically useless whereas books, even the ones I was required to read for classes and did not even enjoy, still feel valuable and demand to be respected after I've read them. She sums this idea up with the sentence on pg 192, "The other than codex forms I'm thinking about didn't have readers; they had 
+*users* instead. As dramatic as this sounds, I'm not sure how wild this idea is if I really think about it. We already know that the first forms of writing were actually receipts in the forms of clay tokens and pots. Even nowadays, I don't know how much meaning I could put into a pamphlet or flyer. I think length is a major component in me caring for and valuing a work and the works that usually have length do come in the form of codexes. Even if we took out Shakespeare's (or whoever you think is an amazing writer) best quotes and compile them into a pamphlet, they would not nearly be as special there because it is the context surrounding those quotes that make them mean something, and that context requires more pages which could very conveniently be made into a codex. I can't imagine how many "Smile Jesus Loves You" flyers or religious pamphlets I have received on the streets and mindlessly emptied into the trashcan later but if someone handed me a full on bible, even though I am not religious at all, I'd still feel like it would be waste to throw all of that away. Then again, maybe that's the inner voice raised by a capitalist society in me that is so concerned about waste, or the environmentalist, or maybe I am lowkey religious and don't want to spite God or whoever's words are in the bible.

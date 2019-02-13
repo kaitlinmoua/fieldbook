@@ -1,0 +1,16 @@
+---
+layout: post
+title: "TITLE HERE"
+subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+categories:
+    - fieldbooks
+comments: false
+---
+
+##Class Prep 02.10.19
+
+In a class I took on the history of teaching writing, I learned that the main way to show that a student "learned" is through their ability to recite, word for word. So in reading *Romeo and Juliet*, one wouldn't be in classes analyzing themes or character arcs really but instead memorizing the script word for word and preparing to recite it in class and that is how you would "succeed." English classes are a lot different now. We are supposed to know key quotes but the focus isn't on memory anymore as much as it is synthesizing what we've read with what we've known prior to reading and perhaps being able to ask new questions of the text. That's what I was reminded of when reading *How to read like a Reinassance reader* which brings up my brilliant revelation of the day: it's not just how the book was made in the day that has changed, it is how we used the book as well. Whether one caused changes in the other or vice versa however is not so simple and I think is more of a back and forth symbiotic relationship.
+
+Another thing that I thought of when reading this article is how the way we take notes is not so different. I like to have a separate piece of paper or notebook when taking notes from the original text as well. When we were looking at the geography textbook from earlier in the week, it struck me that there were barely any annotations or notes in the margins or underlining as some of my books have though and I suppose it was because books were much more valueable back then so they wouldn't want to alter it in any way? However after reading this, it did mention that sometimes people wrote in the margins, even though books were expensive and rare still. I think that makes sense though if I think about it as a paralelle to how many of us use our laptops. Yes laptops are expensive and rare as well but a lot of us still like to put fun stickers on them and though it's not for academic purposes like note taking in books is, we are still in a way probably objectively devaluing an expensive object but we do it to sort of assert ownership on these objects. It's my very expensive laptop and I will definitely try to put as much corgi stickers on it because it is mine.
+
+In *The Information* I had a lot of thoughts about how the dictionary was defintitely an assertion of power and I guess in a way imperializing langauge, something that should belong to everyone, into something that only a few people suddenly can do "correctly," neglecting and delegitimizing all other forms of dialect, pronounciation, spelling, idioms and phrases, and entire vocabularies. I'm happy today that there are places like UrbanDictionary.com where the power of making a word into "A Word," seems to go back to the general population now and not just The One Guy Who Woke Up And Decided Most Of Us Are Wrong.
